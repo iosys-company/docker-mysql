@@ -1,4 +1,4 @@
-# docker-compose mysql 서버설치
+# mysql docker-compose 서버설치
 
 -   설치
 
